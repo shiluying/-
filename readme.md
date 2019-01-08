@@ -1,11 +1,15 @@
-##名称
+名称
+---
 开发人员调度软件
-##关于
+关于
+---
 本项目是一个基于web的应用程序，用于实现公司开发人员的调度。它是使用java和JavaScript编写的。
 基于java语言
-##安装
+安装
+---
 git clone https://github.com/shiluying/Developer-dispathes-software.git
-##功能
+功能
+---
 软件启动时，用户选择用户类型（管理员、公司成员）进行登录操作
 主界面展示：用户根据菜单栏显示选择操作：
 1-团队列表  2-添加团队成员  3-删除团队成员 4-退出   
@@ -14,9 +18,12 @@ git clone https://github.com/shiluying/Developer-dispathes-software.git
 3. 当选择“删除团队成员”菜单时，将执行从开发团队中删除指定（通过TeamID）成员的功能。删除成功后，按回车键将重新显示主界面。
 
 公司人员信息包含：ID     姓名      年龄    工资      职位      状态      奖金      股票    领用设备(可根据实际需要进行删减或者添加)
-##贡献者
+贡献者
+---
 shiluying
-##联系
+联系
+---
 如有需要问询 请联系bistushiluying@163.com
-##许可证
+许可证
+---
 GNU General Public License v3.0
