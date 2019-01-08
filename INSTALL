@@ -1,0 +1,6 @@
+配置、编译和安装该项目的说明信息，请在此填写，并填写到代码仓库中的对应文件。
+
+配置：node.js java
+编译：IntelliJ IDEA（推荐，也可用其他的IDE）
+安装：git clone https://github.com/shiluying/Developer-dispathes-software.git
+说明信息：本项目是一个基于web的应用程序，用于实现公司开发人员的调度。它是使用java和JavaScript编写的。

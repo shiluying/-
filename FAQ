@@ -1,0 +1,7 @@
+问：如何部署该项目？
+答：1.确保本地有基础的 JDK 环境和一个 Web 服务器。如 Tomcat、Jboss以及数据库。如：mysql
+	2. 克隆项目 git clone https://github.com/shiluying/Developer-dispathes-software.git
+	3. 在云主机上搭建好 Java 开发环境
+	4. 将项目打包成 war 文件，然后利用传到远程服务器，将 war 文件移动到 Tomcat （以tomcat为例）目录下的 webapps 下，将已有的数据库转储为 sql文件（以 mysql 为例），然后将 sql 文件上传到云服务器上执行重启服务器，访问我们的项目.
+问：如何提交bug？
+答：如有bug或者其他问询，请联系邮箱bistushiluying@163.com
